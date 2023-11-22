@@ -1,0 +1,9 @@
+
+# IDE and code editor folders
+**/.vs
+**/.vscode 
+
+# No build artefacts
+**/bin
+**/obj
+
